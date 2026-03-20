@@ -53,6 +53,6 @@ Dashboard 2:
 ![Dashboard 2](https://github.com/prathamgarud1004-hub/Data-Analysis-Dashboard/blob/main/Dashboard%202.png)
 
 
-Conclusion
+Conclusion :
 This dashboard helps in analyzing hotel performance and supports better business decisions.
 
