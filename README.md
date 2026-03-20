@@ -4,7 +4,7 @@ Hospitality Analytics Dashboard for Business Performance Monitoring
 Project Description :
 The Hospitality Analysis Dashboard is an interactive Business Intelligence project developed using Power BI to analyze hotel performance. It provides insights into key metrics such as revenue, occupancy rate, bookings, and cancellations, enabling stakeholders to make data-driven decisions and improve overall business performance.
 
-Business Problem
+Business Problem :
 The hospitality industry often faces challenges in tracking performance across multiple properties, understanding booking patterns, and minimizing revenue loss due to cancellations and underutilized capacity.
 
 Key Business Questions
