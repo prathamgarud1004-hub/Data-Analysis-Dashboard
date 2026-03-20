@@ -47,10 +47,10 @@ Insights
 
 Dashboard Screenshots
 Dashboard 1:
-![Dashboard 1](https://raw.githubusercontent.com/prathamgarud1004-hub/Data-AnalysisDashboard/main/Dashboard%201.png)
+![Dashboard 1](https://raw.githubusercontent.com/prathamgarud1004-hub/Data-Analysis-Dashboard/main/Dashboard%201.png)
 
 Dashboard 2:
-![Dashboard 2](https://github.com/prathamgarud1004-hub/Data-Analysis-Dashboard/blob/main/Dasboard%202.png)
+![Dashboard 2](https://github.com/prathamgarud1004-hub/Data-Analysis-Dashboard/blob/main/Dashboard%202.png)
 
 
 Conclusion
